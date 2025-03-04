@@ -1,2 +1,3 @@
 # demo-repo
-demo repository for git tutorial
+
+**demo repository for git tutorial**
